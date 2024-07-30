@@ -1,9 +1,7 @@
 package Test;
 import org.junit.Before;
 import org.junit.Test;
-
 import LogFileProcessor.LogProcessor;
-
 import static org.junit.Assert.assertEquals;
 
 public class LogProcessorTests {
